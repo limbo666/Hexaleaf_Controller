@@ -1,0 +1,18 @@
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\bin\Debug\net6.0-windows\Hexaleaf Contoller UDP.exe
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\bin\Debug\net6.0-windows\Hexaleaf Contoller UDP.deps.json
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\bin\Debug\net6.0-windows\Hexaleaf Contoller UDP.runtimeconfig.json
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\bin\Debug\net6.0-windows\Hexaleaf Contoller UDP.dll
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\bin\Debug\net6.0-windows\Hexaleaf Contoller UDP.pdb
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf_Contoller_UDP.Form1.resources
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.vbproj.GenerateResource.cache
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.AssemblyInfoInputs.cache
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.AssemblyInfo.vb
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.dll
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\refint\Hexaleaf Contoller UDP.dll
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.pdb
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf Contoller UDP.genruntimeconfig.cache
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\ref\Hexaleaf Contoller UDP.dll
+E:\Nextcloud\Development\VB14\Hexaleaf Contoller UDP\Hexaleaf Contoller UDP\obj\Debug\net6.0-windows\Hexaleaf_Contoller_UDP.Resources.resources
